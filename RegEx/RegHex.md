@@ -1,4 +1,7 @@
-The given codes are implemented in python v3.6
+The given expressions are implemented in python v3.6 using below code
+
+`import re`  
+`print(re.fullmatch(r"expression","text")!=None)`
 
 | RegEx expression| Illustration |
 | ------------- | ------------- |
