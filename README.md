@@ -1,2 +1,5 @@
 # NLP
-notes and codes on NLP
+Notes and codes on NLP
+
+
+## References - Speech and Natural Processing
