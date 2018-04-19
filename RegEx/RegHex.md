@@ -17,3 +17,13 @@ R*D*M* | blank <br> R <br> RDM
 .(C\|HH)* | ACCCCHHHHHH
 .*G.*V.*H.* | aaaaaGaaaaaVaaaaaHaaa
 [CR]* | C <br> R <br> CCR <br> CRRC
+.\*XEXM\* | aaaaaXEXM <br> aaXEXMaaXEXM <br> aaXEXMaaXEXMM
+.*DD.\*CCM.\* | aaDDDDaCCMaaa
+.*XHCR.\*X.\* | aaXHCRaaXaa
+.*(.)(.)(.)(.)\4\3\2\1.\* | aABCDDCBAa
+.*(IN\|SE\|HI) | INHIaaIN
+[^C]\*MMM[^C]\* | aMMMa
+.*(.)C\1X\1.* | BCBXB
+[CEIMU]\*OH[AEMOR]\* | CECCOHOA
+(RX\|[^R])\* | RXrr
+[^M]\*M[^M]\* | aaMaa
