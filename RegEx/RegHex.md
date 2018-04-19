@@ -13,7 +13,7 @@ C\*MC(CCC\|MM)\* | MC <br> CMC <br> CMCCCC <br> CMCMM
 ([^X]\|XCC)* | x <br> XCC 
 (RR\|HHH)*.? | RR <br> HHH <br> RRHHH <br> HHHHHHRR <br> RRA
 N.*X.X.X.*E | NaaaaaXAXAXaaaaE
-R*D*M* | blank <br> R <br> RDM
+R\*D\*M\* | blank <br> R <br> RDM
 .(C\|HH)* | ACCCCHHHHHH
 .*G.*V.*H.* | aaaaaGaaaaaVaaaaaHaaa
 [CR]* | C <br> R <br> CCR <br> CRRC
@@ -23,7 +23,20 @@ R*D*M* | blank <br> R <br> RDM
 .*(.)(.)(.)(.)\4\3\2\1.\* | aABCDDCBAa
 .*(IN\|SE\|HI) | INHIaaIN
 [^C]\*MMM[^C]\* | aMMMa
-.*(.)C\1X\1.* | BCBXB
+.\*(.)C\1X\1.\* | BCBXB
 [CEIMU]\*OH[AEMOR]\* | CECCOHOA
 (RX\|[^R])\* | RXrr
 [^M]\*M[^M]\* | aaMaa
+(S\|MM\|HHH)* | S
+.\*SE.\*UE.\* | SESEUEUEa
+.\*LR.\*RL.\* | LRLRRLRLa
+.\*OXR.\* | OXROXROXRa
+([^EMC]\|EM)\* | NEM
+(HHX\|[^HX])\* | HHXG
+.\*PRR.\*DDC.\* | aPRRaDDCa
+[AM]\*CM(RC)\*R? | MCMRCRCR
+([^MC]\|MM\|CC)\* | aMM
+(E\|CR\|MN)\* | E
+P+(..)\1.\* | PPPaaaal
+[CHMNOR]\*I[CHMNOR]\* | HIC
+(ND\|ET\|IN)[^X]\* | NDTV
