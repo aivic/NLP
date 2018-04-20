@@ -16,9 +16,10 @@ Words can be formed from morphemes in two ways -
 | ----- | -----|
 
 ## 1. Inflectional morphology: 
-Inflectional is the combination of a word stem with a grammatical morpheme. E.g. writeS.  
+Inflectional is the combination of a word stem with a grammatical morpheme resulting in a word of usually same class. E.g. writeS.  
 Inflectional can be of two types -
   * an affix that marks plural :- cat | cats, mouse | mice
   * an affix that marks possessive suffix which is realized by apostrophe + s :- He's | children's | goats' 
 
 ## 2. Derivational morphology
+Derivational is the combination of a word stem with a grammatical morpheme resulting in a word of usually different class. E.g. clue | clueless
