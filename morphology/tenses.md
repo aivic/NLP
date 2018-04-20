@@ -21,6 +21,7 @@
  **Perfect**  | He had worked. | He has worked. | He will have worked.
  **Perfect Continuous**  | He had been working. | He has been working. | He will have been working.
  
+ <hr>
  #### Reference - Retrieved on April 20, 2018
 
 * https://www.englisch-hilfen.de/en/grammar/tenses_table.pdf  
